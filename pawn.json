@@ -1,0 +1,9 @@
+{
+	"user": "YSI-Extra",
+	"repo": "y_files",
+	"entry": "test.pwn",
+	"output": "test.amx",
+	"dependencies": [
+	]
+}
+
